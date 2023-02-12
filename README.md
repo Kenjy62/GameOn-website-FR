@@ -1,5 +1,23 @@
-# Projet GameOn
-1. Forkez ce repo ;
-2. Il est conseillé d'utiliser VisualStudio Code et vous pouvez utiliser Docker, mais ce n'est pas obligatoire ;
-3. Il n'y a aucune dépendance ;
-4. Vous ne devez utiliser que du CSS personnalisé et du JavaScript pur, sans jQuery, Bootstrap ou autre librairie.
+<p align="center"><img src="https://user.oc-static.com/upload/2020/08/14/15974189526297_image1.png"></img></p>
+
+<br>
+
+# GameOn
+Project 4 for **OpenClassrooms Developer React Formation**
+
+<br>
+
+# Assignment
+Create a Landing Page for GameOn Website
+
+<br>
+
+# Languages Used
+> HTML
+>
+> CSS
+>
+> Vanilla JS
+
+<br>
+<font size="10"><p align="center"><a href="https://kenjy62.github.io/GameOn-website-FR/starterOnly/">Démonstration</a></p></font>
